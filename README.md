@@ -21,9 +21,9 @@ This repository contains code for developing a deep learning model for image cla
 
 Install dependencies using:
 
-'''bash
+```bash
 pip install -r requirements.txt
-'''
+```
 
 Data
 The dataset is organized into training, validation, and test sets. Each set contains images of various batik types and non-batik images.
