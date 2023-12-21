@@ -12,12 +12,12 @@ This repository contains code for developing a deep learning model for image cla
 -Scripts: Python scripts for specific tasks or utilities.
 
 ## Requirements
--Python 3.x
--TensorFlow
--Keras
--NumPy
--Matplotlib
--scikit-learn
+- Python 3.x
+- TensorFlow
+- Keras
+- NumPy
+- Matplotlib
+- scikit-learn
 
 Install dependencies using:
 
